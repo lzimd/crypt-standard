@@ -1,0 +1,6 @@
+*.pdf
+*.doc
+*.docx
+*.json
+
+tmp*
