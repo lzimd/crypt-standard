@@ -14,7 +14,7 @@
 
 1. 密标委 [标准列表](http://www.gmbz.org.cn/main/bzlb.html)
 2. 国家密码管理局 [标准规范查询](http://www.oscca.gov.cn/app-zxfw/zxfw/bzgfcx.jsp)
-3. 信安标委 [标准列表](https://www.tc260.org.cn/advice/list.html)
+3. 信安标委 [标准列表](https://www.tc260.org.cn/front/bzcx/yfgbqd.html)
 4. ITU [ITU-T Recommendations](https://www.itu.int/en/ITU-T/publications/Pages/structure.aspx)
 5. OID reference database [oidref.com](http://oidref.com/)
 6. 国家OID注册中心 [www.chinaoid.org](http://www.oidchina.org/) / [www.china-oid.org.cn](http://www.china-oid.org.cn/)
